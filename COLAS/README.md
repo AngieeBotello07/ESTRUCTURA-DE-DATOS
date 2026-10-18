@@ -30,7 +30,45 @@ El código está organizado de manera plana y modular dentro del paquete origina
 ## 🚀 Instrucciones de Ejecución
 Cada variante cuenta con su propia clase `Main` independiente. Puedes compilar y ejecutar cualquiera de los archivos de prueba directamente desde tu IDE de preferencia (NetBeans, IntelliJ, Eclipse) o desde la terminal de comandos:
 
-```bash
-# Ejemplo para ejecutar la Cola Circular desde consola
+
+**RESULTADOS DE LA PRÁCTICA**
+_____________________________________________
+=== PRUEBA DE COLA ESTÁTICA LINEAL ===
+Frente -> [10] [20] [30] <- Fin
+Elemento al frente (peek): 10
+Desencolando: 10
+Frente -> [20] [30] <- Fin
+Nuevo elemento al frente (peek): 20
+
+Process finished with exit code 0
+
+___________________________________________
+=== PRUEBA DE COLA ESTÁTICA CIRCULAR ===
+Encolando elementos...
+Frente -> [100] [200] [300] <- Fin
+Elemento al frente (peek): 100
+Desencolando: 100
+Encolando elemento circular (400):
+Frente -> [200] [300] [400] <- Fin
+Elemento al frente actual (peek): 200
+=== PRUEBA DE COLA ESTÁTICA CIRCULAR ===
+Encolando elementos...
+Frente -> [100] [200] [300] <- Fin
+Elemento al frente (peek): 100
+Desencolando: 100
+Encolando elemento circular (400):
+Frente -> [200] [300] [400] <- Fin
+Elemento al frente actual (peek): 200
+
+Process finished with exit code 0
+
+______________________________________________
+--- PRUEBA DE COLA DINÁMICA ---
+Frente ->  [5] [15] [25] <- Fin
+Total de nodos activos recorridos: 3
+Nodo al frente detectado (peek): 5
+
+Process finished with exit code 0
+______________________________________________
 java Estructuras_lineales.MainColaCircular
 ```
