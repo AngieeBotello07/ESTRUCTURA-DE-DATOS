@@ -77,7 +77,11 @@ Silla                    |       12 |     150.00
 1. Clona el repositorio en tu máquina local:
 2. Navega hasta el directorio que contiene los archivos fuentes (`.java`):
 3. Compila todos los módulos del software:
-   ```   javac Main.java ArbolBinarioBusqueda.java Nodo.java Producto.java
+   ```
+   Main.java	
+   ArbolBinarioBusqueda.java	
+   NodoDoble.java	
+   Producto.java	
    ```
 4. Ejecuta el sistema:
    ```
