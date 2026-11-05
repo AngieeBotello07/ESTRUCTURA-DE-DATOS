@@ -80,7 +80,7 @@ Silla                    |       12 |     150.00
    ```
    Main.java	
    ArbolBinarioBusqueda.java	
-   NodoDoble.java	
+   Nodo.java	
    Producto.java	
    ```
 4. Ejecuta el sistema:
