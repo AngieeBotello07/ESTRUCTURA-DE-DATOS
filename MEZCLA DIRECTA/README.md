@@ -4,7 +4,8 @@
 - **Institución:** Instituto Tecnológico Superior de Xalapa (ITSX)
 - **Carrera:** Ingeniería en Sistemas Computacionales
 - **Asignatura:** AED-1026 Estructura de Datos (Unidad 5: Ordenamiento Externo)
-- **Alumna / Autores:** María de los Angeles Rocha Botello bajo la cátedra del Ing. Víctor Hugo Vásquez Herrera.  — 3° "B"
+- **Alumnos / Autores:** María de los Angeles Rocha Botello, María Fátima Sánchez Landa y Óscar Lozada Vargas. — 3° "B"
+  (Bajo la cátedra del Ing. Víctor Hugo Vásquez Herrera y trabajado en la clase del 14 de Noviembre 2026)
 - **Docente:** Ing. Víctor Hugo Vásquez Herrera (`victor.vasquez@itsx.edu.mx`)
 - **Repositorio Oficial:** [https://github.com/AngieeBotello07/ESTRUCTURA-DE-DATOS/tree/main/MEZCLA%20DIRECTA](https://github.com/AngieeBotello07/ESTRUCTURA-DE-DATOS/tree/main/MEZCLA%20DIRECTA)
 
