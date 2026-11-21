@@ -1,8 +1,5 @@
 # 🔍 Unidad 6: Métodos de Búsqueda en Java (Búsqueda Secuencial y Binaria)
 
-![Java](https://shields.io)
-![ITSX](https://shields.io)
-![Materia](https://shields.io)
 
 Repositorio oficial de las prácticas correspondientes a la **Unidad 6: Métodos de Búsqueda** de la asignatura **Estructura de Datos (AED-1026)**, desarrolladas e implementadas en lenguaje **Java**.
 
