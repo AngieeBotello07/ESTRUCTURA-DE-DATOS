@@ -66,11 +66,11 @@ Asimismo, el programa realiza una comparativa empírica de rendimiento en nanose
 ### Pasos desde la terminal
 1. Clonar o descargar los archivos del repositorio en una misma carpeta.
 2. Compilar el archivo fuente:
-   ```bash
-   javac BusquedaHashPractica.java
+   ```
+   (https://github.com/AngieeBotello07/ESTRUCTURA-DE-DATOS/tree/main/B%C3%9ASQUEDA%20POR%20FUNCIONES%20HASH)
    ```
 3. Ejecutar el programa:
-   ```bash
+   ```
    java BusquedaHashPractica
    ```
 
